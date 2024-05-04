@@ -1,1 +1,3 @@
-Right now the model will ony run if you run the init then the drive cycle before running simulink
+April 29 - Right now the model will ony run if you run the init then the drive cycle before running simulink
+
+May 3 - That was when I had emailed you, I never recieved a response in terms of me needing to chnage anything with my model, however I did add the other scripts you said to add from your announcement and then I made the FinalRace script to run everything. I am hoping that since there was no response to the initial submission that means it was okay and nothing needed to be changed. When I added the FinalRace script for some reason it kept giving me errors, I never recieved errors when I had run it before, only warnings, so I tried to fix as much as I could but I couldn't get rid of all the errors. 
